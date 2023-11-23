@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Phase Recognition in ETV surgeries
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Agastya
+    family-names: Thoppur
+    email: agastya.thoppur@iiitb.ac.in
+  - given-names: Pon
+    family-names: Deepika
+    email: pondeepika@iiitb.ac.in
+  - given-names: Madhav
+    family-names: Rao
+    email: mr@iiitb.ac.in
+url: "https://github.com/agastyathoppur/PhaseRecognition"
